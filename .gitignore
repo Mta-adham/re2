@@ -4,3 +4,6 @@ core
 obj/
 benchlog.*
 user.bazelrc
+build-artemis/
+artemis_results.json
+artemis_detailed.json
